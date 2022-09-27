@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @emanuelgomesdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>Welcome to my page! </br> I'm Emanuel, QA Engineer Automation from <img src="https://img.icons8.com/color/13/000000/brazil-circular.png"/> <b>Paraíba, Brazil</b></p>
+<h3>Things I code with</h3>
 
-<!---
-emanuelgomesdev/emanuelgomesdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+
