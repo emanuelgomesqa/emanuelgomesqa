@@ -10,6 +10,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgomesdev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
+  
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelgomesdev&theme=gotham" alt="emanuelgomesdev" /></p>
   
  ##
