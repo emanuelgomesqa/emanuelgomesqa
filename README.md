@@ -6,15 +6,13 @@
 
 <div align="justify">
   <a href="https://github.com/emanuelgomesdev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=emanuelgomesdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgomesdev&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelgomesdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgomesdev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-  
   
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelgomesdev&theme=gotham" alt="emanuelgomesdev" /></p>
   
  ##
-  
   
 <div> 
   <a href="https://instagram.com/emanuelgomesdev_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
