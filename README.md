@@ -7,10 +7,10 @@
 <div align="justify">
   <a href="https://github.com/emanuelgomesqa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelgomesqa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgomesdev&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgomesqa&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelgomesdev&theme=gotham" alt="emanuelgomesdev" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelgomesqa&theme=gotham" alt="emanuelgomesdev" /></p>
   
  ##
   
