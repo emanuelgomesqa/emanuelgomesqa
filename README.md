@@ -7,7 +7,7 @@
 
 - 👨‍💻 Aperfeiçoando meus conhecimentos com a **Mentoria em Testes de Software** do <a href="https://www.juliodelima.com.br/biografia/">Júlio de Lima</a>.
 
-- 🎓 Formação em **Técnico em Informática** pelo <a href="https://estudante.ifpb.edu.br/cursos/75/">Instituto Federal da Paraíba</a>.
+- 🎓 **Técnico em Informática** pelo <a href="https://estudante.ifpb.edu.br/cursos/75/">Instituto Federal da Paraíba</a>.
   
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela <a href="https://vestibular.uninassau.edu.br/curso/85/840/4/cst-analise-e-desenvolvimento-de-sistemas/Joao+Pessoa-PB">UNINASSAU</a>.
 
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,gherkin,java,linux,mysql,sqlite,nodejs,selenium " />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,gherkin,java,linux,mysql,sqlite,nodejs" />
   </a>
   <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 </p>
