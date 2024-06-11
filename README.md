@@ -23,7 +23,7 @@ Sou um Analista de Testes/QA com uma paixão profunda pela gestão de qualidade 
 
 ---
 
-## Formação Acadêmica
+## 📚 Formação Acadêmica
 
 Na visão geral abaixo você encontrará todo o histórico da minha formação acadêmica:
 

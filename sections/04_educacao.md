@@ -1,4 +1,4 @@
-## Formação Acadêmica
+## 📚 Formação Acadêmica
 
 Na visão geral abaixo você encontrará todo o histórico da minha formação acadêmica:
 
