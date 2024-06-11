@@ -35,7 +35,7 @@ Pós-Graduação Lato Sensu em Engenharia de Software
 <br/>
 <br/>
 
-[<img align="left" height="80px" width="70px" alt="uninassau" src="https://i.pinimg.com/736x/1e/80/8d/1e808d5c2202b1020ea3c4e38658a14a.jpg"/>](https://www.uninassau.edu.br/)
+[<img align="left" height="94px" width="94px" alt="uninassau" src="https://i.pinimg.com/736x/1e/80/8d/1e808d5c2202b1020ea3c4e38658a14a.jpg"/>](https://www.uninassau.edu.br/)
 
 **Análise e Desenvolvimento de Sistemas** \
 [**UNINASSAU**](https://www.uninassau.edu.br/) • Graduação \
