@@ -8,13 +8,14 @@ Na visão geral abaixo você encontrará todo o histórico da minha formação a
 [**PUC Minas**](https://www.pucminas.br/destaques/Paginas/default.aspx) • Especialização \
 Pós-Graduação Lato Sensu em Engenharia de Software
 <br/>
-
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://www.uninassau.edu.br/sites/mauriciodenassau.edu.br/files/fields/imagemLateral/noticias/2019/11/logo-uninassau.png"/>](https://www.uninassau.edu.br/)
 
 **Análise e Desenvolvimento de Sistemas** \
 [**UNINASSAU**](https://www.uninassau.edu.br/) • Graduação \
 Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas
+<br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.ifpb.edu.br/noticias/2019/05/conselho-superior-convoca-para-reuniao-ordinaria/logo-ifpb-vertical.png"/>](https://www.ifpb.edu.br/)
