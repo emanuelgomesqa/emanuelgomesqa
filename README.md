@@ -74,11 +74,19 @@ Sou um Analista de Testes/QA com uma paixão profunda pela gestão de qualidade 
 
 Na visão geral abaixo você encontrará todo o histórico da minha Experiência Profissional:
 
+[<img align="left" height="94px" width="94px" alt="Minsait" src="https://nerdin.com.br/img/empresa/3226.png"/>]([https://certdox.com.br/](https://www.minsait.com/pt))
+
+**Analista de Testes/QA (PL)** \
+[**Minsait**]([https://certdox.com.br/](https://www.minsait.com/pt)) • CLT \
+**Período**: 07/2024 - Atualmente
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="CertDox" src="https://yt3.googleusercontent.com/ytc/AIdro_njRT6IUBpPLWXP-zkXrk0Z3YrDQXdKTs05HM3kt4i5AA=s900-c-k-c0x00ffffff-no-rj"/>](https://certdox.com.br/)
 
 **Analista de Testes/QA (PL)** \
 [**CertDox**](https://certdox.com.br/) • PJ \
-**Período**: 08/2022 - Atualmente
+**Período**: 08/2022 - 07/2024
 <br/>
 <br/>
 
