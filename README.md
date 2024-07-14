@@ -77,7 +77,7 @@ Na visão geral abaixo você encontrará todo o histórico da minha Experiência
 [<img align="left" height="94px" width="94px" alt="Minsait" src="https://nerdin.com.br/img/empresa/3226.png"/>]([https://certdox.com.br/](https://www.minsait.com/pt))
 
 **Analista de Testes/QA (PL)** \
-[**Minsait**]([https://certdox.com.br/](https://www.minsait.com/pt)) • CLT \
+[**Minsait**](https://www.minsait.com/pt) • CLT \
 **Período**: 07/2024 - Atualmente
 <br/>
 <br/>
