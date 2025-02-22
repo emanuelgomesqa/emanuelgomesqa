@@ -5,6 +5,14 @@ Na visão geral abaixo você encontrará todo o histórico da minha formação a
 [<img align="left" height="94px" width="94px" alt="puc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxME1R2WYvh_G2IvtLd1L2cpFVaKTSe7_rA&s"/>](https://www.pucminas.br/destaques/Paginas/default.aspx)
 
 **Engenharia de Software** \
+[**UNIESP**](https://www.pucminas.br/destaques/Paginas/default.aspx) • Especialização \
+Pós-Graduação Lato Sensu em Quality Assurance e Robotic Process Automation
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="puc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxME1R2WYvh_G2IvtLd1L2cpFVaKTSe7_rA&s"/>](https://www.pucminas.br/destaques/Paginas/default.aspx)
+
+**Engenharia de Software** \
 [**PUC Minas**](https://www.pucminas.br/destaques/Paginas/default.aspx) • Especialização \
 Pós-Graduação Lato Sensu em Engenharia de Software
 <br/>

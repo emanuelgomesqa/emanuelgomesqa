@@ -1,6 +1,6 @@
 # 🚀 Olá, meu nome é <strong>Emanuel Gomes!</strong>
 
-<strong>Analista de Testes/QA</strong>
+<strong>Sr. Quality Assurance</strong>
 
 
 <p align='left'>
@@ -13,7 +13,7 @@
     <a href="https://github.com/emanuelgomesqa" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>&nbsp;
-    <a href="https://wa.me/5583998558560" target="_blank">
+    <a href="https://wa.me/5583991458280" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
     </a>&nbsp;
 </p>
@@ -74,13 +74,22 @@ Sou um Analista de Testes/QA com uma paixão profunda pela gestão de qualidade 
 
 Na visão geral abaixo você encontrará todo o histórico da minha Experiência Profissional:
 
+[<img align="left" height="94px" width="94px" alt="Minsait" src="https://media.licdn.com/dms/image/v2/D4D0BAQH3DJi4w2PcqA/company-logo_200_200/company-logo_200_200/0/1710942901119/rpe_retail_payment_ecosystem_logo?e=1748476800&v=beta&t=BklNElca-oL-fI07Nx8GpLmwpIc_bsL883wr8VOR2e4"/>](https://www.rpe.tech/)
+
+**Sr. Quality Assurance** \
+[**RPE - Retail Payment Ecosystem**](https://www.rpe.tech/) • PJ \
+**Período**: 09/2024 - Atualmente
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Minsait" src="https://nerdin.com.br/img/empresa/3226.png"/>]([https://certdox.com.br/](https://www.minsait.com/pt))
 
 **Analista de Testes/QA (PL)** \
 [**Minsait**](https://www.minsait.com/pt) • CLT \
-**Período**: 07/2024 - Atualmente
+**Período**: 07/2024 - 09/2024
 <br/>
 <br/>
+
 
 [<img align="left" height="94px" width="94px" alt="CertDox" src="https://yt3.googleusercontent.com/ytc/AIdro_njRT6IUBpPLWXP-zkXrk0Z3YrDQXdKTs05HM3kt4i5AA=s900-c-k-c0x00ffffff-no-rj"/>](https://certdox.com.br/)
 
@@ -128,6 +137,14 @@ Na visão geral abaixo você encontrará todo o histórico da minha Experiência
 ## 📚 Formação Acadêmica
 
 Na visão geral abaixo você encontrará todo o histórico da minha formação acadêmica:
+
+[<img align="left" height="94px" width="94px" alt="puc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxME1R2WYvh_G2IvtLd1L2cpFVaKTSe7_rA&s"/>](https://www.pucminas.br/destaques/Paginas/default.aspx)
+
+**Engenharia de Software** \
+[**UNIESP**](https://www.pucminas.br/destaques/Paginas/default.aspx) • Especialização \
+Pós-Graduação Lato Sensu em Quality Assurance e Robotic Process Automation
+<br/>
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="puc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxME1R2WYvh_G2IvtLd1L2cpFVaKTSe7_rA&s"/>](https://www.pucminas.br/destaques/Paginas/default.aspx)
 

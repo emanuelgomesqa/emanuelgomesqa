@@ -9,7 +9,7 @@
     <a href="https://github.com/emanuelgomesqa" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>&nbsp;
-    <a href="https://wa.me/5583998558560" target="_blank">
+    <a href="https://wa.me/5583991458280" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
     </a>&nbsp;
 </p>
