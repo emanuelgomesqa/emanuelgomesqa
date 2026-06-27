@@ -2,7 +2,7 @@
 
 Na visão geral abaixo você encontrará todo o histórico da minha Experiência Profissional:
 
-[<img align="left" height="94px" width="94px" alt="Minsait" src="https://media.licdn.com/dms/image/v2/D4D0BAQH3DJi4w2PcqA/company-logo_200_200/company-logo_200_200/0/1710942901119/rpe_retail_payment_ecosystem_logo?e=1748476800&v=beta&t=BklNElca-oL-fI07Nx8GpLmwpIc_bsL883wr8VOR2e4"/>](https://www.rpe.tech/)
+[<img align="left" height="94px" width="94px" alt="RPE" src="https://media.licdn.com/dms/image/v2/D4D0BAQHNPgk_e2PJgg/company-logo_200_200/B4DZb5R6F_IAAY-/0/1747938944143/rpe_retail_payment_ecosystem_logo?e=2147483647&v=beta&t=xBRvAXzwrKB-JgxCtEuajxmEfBMN_G9NxsYacpASpI4"/>](https://www.rpe.tech/)
 
 **Sr. Quality Assurance** \
 [**RPE - Retail Payment Ecosystem**](https://www.rpe.tech/) • PJ \
@@ -10,7 +10,7 @@ Na visão geral abaixo você encontrará todo o histórico da minha Experiência
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Minsait" src="https://nerdin.com.br/img/empresa/3226.png"/>]([https://certdox.com.br/](https://www.minsait.com/pt))
+[<img align="left" height="94px" width="94px" alt="Minsait" src="https://nerdin.com.br/img/empresa/3226.png"/>]([https://www.minsait.com/pt](https://www.minsait.com/pt))
 
 **Analista de Testes/QA (PL)** \
 [**Minsait**](https://www.minsait.com/pt) • CLT \
@@ -19,7 +19,7 @@ Na visão geral abaixo você encontrará todo o histórico da minha Experiência
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="CertDox" src="https://yt3.googleusercontent.com/ytc/AIdro_njRT6IUBpPLWXP-zkXrk0Z3YrDQXdKTs05HM3kt4i5AA=s900-c-k-c0x00ffffff-no-rj"/>](https://certdox.com.br/)
+[<img align="left" height="94px" width="94px" alt="CertDox" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcicvYdIRTd9XV6lUVtiljB5TcoZQExA2WcQ&s"/>](https://certdox.com.br/)
 
 **Analista de Testes/QA (PL)** \
 [**CertDox**](https://certdox.com.br/) • PJ \
@@ -27,7 +27,7 @@ Na visão geral abaixo você encontrará todo o histórico da minha Experiência
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Cubos" src="https://media.licdn.com/dms/image/C4D0BAQHfMvjLq_YWGg/company-logo_200_200/0/1659364670264/cubostecnologia_logo?e=2147483647&v=beta&t=vv8Bn3H1HD4IXdrmDRlz9BmBc2cfQiOVIrzpvIPb1r4"/>](https://cubos.io/)
+[<img align="left" height="94px" width="94px" alt="Cubos" src="https://media.licdn.com/dms/image/v2/D4D0BAQGqA8XCTNhlTg/company-logo_200_200/B4DZUkV2FrGcAI-/0/1740071461816/cubostecnologia_logo?e=2147483647&v=beta&t=QoNQEf-IkkeLPuJCWoY9nPKuAdVxXnfhBlbb38FRv0g"/>](https://cubos.io/)
 
 **Analista de Testes/QA (PL)** \
 [**Cubos Tecnologia**](https://cubos.io/) • CLT \
@@ -35,7 +35,7 @@ Na visão geral abaixo você encontrará todo o histórico da minha Experiência
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="ZAK" src="https://media.licdn.com/dms/image/C4D0BAQE2I_IqAdvxuw/company-logo_200_200/0/1630482452666/zakpay_logo?e=2147483647&v=beta&t=XS5ouS_mLIJoUV8ZkXwielVXS6fcVXtHRD_b2GAd6Zk"/>](https://www.zak.app/)
+[<img align="left" height="94px" width="94px" alt="ZAK" src="https://raichu-uploads.s3.amazonaws.com/logo_zak-app_enxDJQ.png"/>](https://www.zak.app/)
 
 **Analista de Testes/QA (PL)** \
 [**Zak**](https://www.zak.app) • CLT \

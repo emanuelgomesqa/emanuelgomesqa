@@ -2,10 +2,10 @@
 
 Na visão geral abaixo você encontrará todo o histórico da minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="puc" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxME1R2WYvh_G2IvtLd1L2cpFVaKTSe7_rA&s"/>](https://www.pucminas.br/destaques/Paginas/default.aspx)
+[<img align="left" height="94px" width="94px" alt="uniesp" src="https://media.licdn.com/dms/image/v2/C4E0BAQE5JuL2mMtKzQ/company-logo_200_200/company-logo_200_200/0/1630589425732/uniespcentrouniversitario_logo?e=2147483647&v=beta&t=R8-OnHlmV4DMbhiPemOHhyA-8uQYtGOFCEv1DwNefAI"/>](https://www.iesp.edu.br/)
 
 **Engenharia de Software** \
-[**UNIESP**](https://www.pucminas.br/destaques/Paginas/default.aspx) • Especialização \
+[**UNIESP**](https://www.iesp.edu.br/) • Especialização \
 Pós-Graduação Lato Sensu em Quality Assurance e Robotic Process Automation
 <br/>
 <br/>
@@ -26,7 +26,7 @@ Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="ifpb" src="https://www.ifpb.edu.br/noticias/2019/05/conselho-superior-convoca-para-reuniao-ordinaria/logo-ifpb-vertical.png"/>](https://www.ifpb.edu.br/)
+[<img align="left" height="94px" width="94px" alt="ifpb" src="https://www.ifpb.edu.br/static/media/logo.20d47050.png"/>](https://www.ifpb.edu.br/)
 
 **Técnico em Informática** \
 [**IFPB**](https://www.ifpb.edu.br/) • Técnico \
